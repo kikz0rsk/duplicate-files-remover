@@ -1,0 +1,7 @@
+{
+  "name": "duplicate-remover",
+  "version": "0.0.1",
+  "dependencies": [
+    "xxhash"
+  ]
+}
